@@ -11,6 +11,13 @@ div {
     color: darkgreen;
 }
 
-.step {
+
+
+.step,
+.laststep {
     color: slateblue;
+}
+
+.laststep {
+    background-color: skyblue;
 }
